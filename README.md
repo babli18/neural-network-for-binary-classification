@@ -2,7 +2,7 @@
 ==========================================================================
 
 ## **Overview**
-This project demonstrates the use of neural networks for solving binary classification tasks, from the classic XOR problem to real-world datasets (exclipse and hexagon) with unique patterns. The study focuses on exploring network architectures, training techniques, and decision boundary visualizations to derive key insights.
+This case-study demonstrates the use of neural networks for solving binary classification tasks, from the classic XOR problem to real-world datasets (exclipse and hexagon) with unique patterns. The study focuses on exploring network architectures, training techniques, and decision boundary visualizations to derive key insights.
 
 
 ## **Contents**
