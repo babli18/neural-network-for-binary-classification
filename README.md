@@ -10,7 +10,6 @@ This case-study demonstrates the use of neural networks for solving binary class
 - [Data Description](#data-description)
 - [Methodology](#methodology)
 - [Results and Insights](#results-and-insights)
-- [Conclusion](#conclusion)
 
 
 ## **Objectives**
@@ -58,13 +57,4 @@ This case-study demonstrates the use of neural networks for solving binary class
 - **Best Loss**: 0.0616
 - **Best Accuracy**: 96.90%
 - **Optimal Architecture**: Same as "Ellipse."
-
-### Visualizations:
-- Decision boundary plots illustrate how the models separate binary classes for each dataset.
-
-
-## **Conclusion**
-- Neural networks, even with basic architectures, can solve challenging binary classification problems effectively.
-- Experimenting with architecture depth and capacity is key to optimizing performance.
-- Visualizations enhance interpretability and provide actionable insights into model behavior.
 
